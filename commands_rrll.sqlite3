@@ -1,0 +1,3 @@
+.mode tabs
+.separator "\t"
+.import c:\tracksys\dotacion_rrll.tsv dotacion

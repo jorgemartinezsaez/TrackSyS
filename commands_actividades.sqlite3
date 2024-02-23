@@ -1,0 +1,3 @@
+.mode tabs
+.separator "\t"
+.import c:\tracksys\actividades_plataforma.tsv actividades
